@@ -1,4 +1,4 @@
-📘 Informe General – Proyectos Java (Colecciones y Estructuras)
+– Proyectos Java (Colecciones y Estructuras)
 
 
 Este repositorio reúne una serie de proyectos desarrollados en Java con el objetivo de aplicar el Framework de Colecciones de Java y reforzar conceptos clave de programación orientada a objetos, estructuras de datos y manipulación de archivos.
