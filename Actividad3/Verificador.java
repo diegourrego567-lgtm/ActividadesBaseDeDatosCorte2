@@ -93,12 +93,12 @@ public class Verificador {
 
     // ===== MAIN =====
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner Scanner = new Scanner(System.in);
         System.out.println("Ingrese el texto a verificar (finalice con una línea vacía):");
 
         StringBuilder texto = new StringBuilder();
         while (true) {
-            String linea = sc.nextLine();
+            String linea = Scanner.nextLine();
             if (linea.isEmpty()) break;
             texto.append(linea).append("\n");
         }
